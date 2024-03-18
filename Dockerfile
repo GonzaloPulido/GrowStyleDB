@@ -1,4 +1,4 @@
-#Dockerfile database
+#Database
 FROM mariadb:latest
 
 COPY myDatabaseConf.cnf /etc/mysql/conf.d/myDatabaseConf.cnf
