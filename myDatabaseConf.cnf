@@ -1,0 +1,7 @@
+[client]
+user=mi_usuario
+password=mi_contraseña
+
+[mysqld]
+database=mi_basededatos
+port=3006
